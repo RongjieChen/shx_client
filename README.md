@@ -6,12 +6,12 @@ similar with meilishuo's iOS client.
 
 1.
 
-[![](http://github.com/oday0311/shx_client/raw/master/IMG_0745.png)](http://github.com/oday0311/shx_client/raw/master/IMG_0745.png)
+[![](http://github.com/oday0311/shx_client/blob/master/IMG_0745.png)](http://github.com/oday0311/shx_client/blob/master/IMG_0745.png)
 
 2. 
 
-[![](http://github.com/oday0311/shx_client/raw/master/IMG_0746.png)](http://github.com/oday0311/shx_client/raw/master/IMG_0746.png)
+[![](http://github.com/oday0311/shx_client/blob/master/IMG_0746.png)](http://github.com/oday0311/shx_client/blob/master/IMG_0746.png)
 
 3. 
 
-[![](http://github.com/oday0311/shx_client/raw/master/IMG_0745.png)](http://github.com/oday0311/shx_client/raw/master/IMG_0746.png)
+[![](http://github.com/oday0311/shx_client/blob/master/IMG_0745.png)](http://github.com/oday0311/shx_client/blob/master/IMG_0746.png)
